@@ -11,5 +11,3 @@ timeline
     May 11 1973 : Operations transfer to Depository Trust Company : DTC is owned by the NYSE
     July 11-12 1973 : Senate hearings on clearing agencies and transfer agents
 ```
-
-[Historical sources and details](history/dtc.md).
