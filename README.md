@@ -13,5 +13,3 @@ timeline
          : Jul 11–12 — Senate hearings on clearing agencies and transfer agents
     2025 : NYSE subsidiary Stock Clearing Corporation holds all 10,000 DTCC Series A preferred shares
 ```
-
-[DTCC 2025 financial statements, p. 46](https://www.dtcc.com/-/media/Files/Downloads/legal/financials/2025/DTCC-Annual-Financial-Statement-2025.pdf#page=48) · [DTC history](history/dtc.md)
