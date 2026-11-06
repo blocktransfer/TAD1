@@ -8,4 +8,4 @@ The [July 11–12, 1973 Senate hearings on clearing agencies and transfer agents
 
 The [New York State Banking Department's 2001 annual report, Schedule B, Part 2, p. 4 of 14 (PDF pp. 118 and 133)](https://www.dfs.ny.gov/system/files/documents/2020/02/bd_areport_2001.pdf#page=118) independently lists **May 11, 1973** as DTC's **"Date of Charter or License."** Because the column combines two different regulatory events, that listing does not, by itself, establish a distinct legal incorporation date.
 
-CCS ownership transfer to Series A preferred shares came later.
+CCS ownership transfer to Series A preferred shares came on 4 Nov 1999.
