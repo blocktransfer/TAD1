@@ -5,8 +5,8 @@ A history of the TAD concept as it was originally developed and contemplated by 
 
 ```mermaid
 timeline
-    1968 : NYSE Central Certificate Service establishes the foundation
-    Late 1971 : BASIC charts the depository transition
+    1968 : Start of NYSE Central Certificate Service
+    Late 1971 : BASIC study commences
     January 1973 : Operations pass to Central Certificate Service Inc.
     May 11 1973 : Operations transfer to Depository Trust Company : DTC is owned by the NYSE
     July 11-12 1973 : Senate hearings on clearing agencies and transfer agents
