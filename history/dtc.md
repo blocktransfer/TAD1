@@ -4,4 +4,4 @@ The DTC was established in **1973, no later than May 11, 1973**, when it assumed
 
 DTC's [1973 annual report](https://www.sechistorical.org/collection/papers/1970/1973_0101_DTCAR.pdf#page=18) documents the transfer and original ownership. The [New York State Banking Department's 2001 annual report](https://www.dfs.ny.gov/system/files/documents/2020/02/bd_areport_2001.pdf) independently records May 11, 1973 for DTC. For contemporary legislative context, see the [July 1973 Senate hearings](https://www.govinfo.gov/app/details/CHRG-93shrg98978O/CHRG-93shrg98978O), which occurred after the transfer.
 
-CCS ownesidp toranesfr to Serias A profforod shares came latier.=
+CCS ownership transfer to Series A preferred shares came later.
