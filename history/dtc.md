@@ -1,4 +1,4 @@
-# Depository Trust Company (DTC) — 1973
+# Depository Trust Company
 
 Contemporary congressional testimony states that, after the New York Superintendent of Banks and Banking Board approved DTC's organization certificate, the Depository Trust Company (DTC) **took over the assets and operations of Central Certificate Service, Inc. on May 11, 1973**. The same testimony states that DTC's application for Federal Reserve System membership was approved on **April 19, 1973** and became effective on **June 27, 1973**. These dates distinguish DTC's organizational and regulatory steps from its May 11 operational takeover; they do not establish the exact date of legal incorporation.
 
@@ -7,3 +7,5 @@ William Dentzer testified that CCS became “The Depository Trust Company” on 
 The [July 11–12, 1973 Senate hearings on clearing agencies and transfer agents, p. 209](https://www.govinfo.gov/content/pkg/CHRG-93shrg98978O/pdf/CHRG-93shrg98978O.pdf#page=209) document the organization-certificate approval, operational takeover and Federal Reserve membership milestones. The [other Senate testimony](https://www.govinfo.gov/app/details/CHRG-93shrg98978O/CHRG-93shrg98978O) uses the “known as DTC since May 11” wording for that transition. DTC's [1973 annual report, p. 3 (PDF p. 5)](https://www.sechistorical.org/collection/papers/1970/1973_0101_DTCAR.pdf#page=5) discusses the operational transition and original NYSE ownership.
 
 The [New York State Banking Department's 2001 annual report, Schedule B, Part 2, p. 4 of 14 (PDF pp. 118 and 133)](https://www.dfs.ny.gov/system/files/documents/2020/02/bd_areport_2001.pdf#page=118) independently lists **May 11, 1973** as DTC's **"Date of Charter or License."** Because the column combines two different regulatory events, that listing does not, by itself, establish a distinct legal incorporation date.
+
+CCS ownership transfer to Series A preferred shares came later.
