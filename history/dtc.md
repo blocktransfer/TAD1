@@ -1,5 +1,9 @@
 # Depository Trust Company
 
+On September 15, 1972, drafts of DTC's articles of incorporation, bylaws, and rules were filed with the Commission for review, as well as with state and federal banking authorities. [BASIC, *Interindustry Teamwork* (Apr. 1, 1974), p. 42](https://www.sechistorical.org/collection/papers/1980/1984_0401_BasicTeamwork_1.pdf).
+
+From September 1972 through early May 1973, CCS and Commission staff discussed and revised the proposed documents. They met on September 29; revised papers were refiled on October 18; the Commission publicly solicited comments on November 8; and ten comment letters were received. Further conferences and written submissions preceded the Commission's May 8, 1973 conditional clearance, subject to specified changes. [BASIC, *Interindustry Teamwork*, pp. 41–42](https://www.sechistorical.org/collection/papers/1980/1984_0401_BasicTeamwork_1.pdf).
+
 Contemporary congressional testimony states that, after the New York Superintendent of Banks and Banking Board approved DTC's organization certificate, the Depository Trust Company (DTC) took over the assets and operations of Central Certificate Service, Inc. on May 11, 1973. The same testimony states that DTC's application for Federal Reserve System membership was approved on April 19, 1973 and became effective on June 27, 1973.
 
 William Dentzer testified that CCS became “The Depository Trust Company” on May 11, 1973; he also reported Federal Reserve membership approval and that the SEC had virtually approved DTC's rules package. DTC was initially a wholly owned subsidiary of the New York Stock Exchange.
