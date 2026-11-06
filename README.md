@@ -8,8 +8,8 @@ A history of the TAD concept as it was originally developed and contemplated by 
 timeline
     1968 : Start of NYSE Central Certificate Service
     Late 1971 : BASIC study commences
-    1973 : Jan 1 — NYSE moves CCS operations and assets to CCS Inc.
-         : May 11 — CCS Inc. transfers operations and $2.183m in net assets to DTC for 18,500 shares
-         : Jul 11–12 — Senate hearings on clearing agencies and transfer agents
+    1973 : 1 Jan — NYSE moves CCS operations and assets to CCS Inc.
+         : 11 May — CCS Inc. transfers operations and $2.183m in net assets to DTC for 18,500 shares
+         : 11–12 Jul — Senate hearings on clearing agencies and transfer agents
     2025 : NYSE subsidiary Stock Clearing Corporation holds all 10,000 DTCC Series A preferred shares
 ```
