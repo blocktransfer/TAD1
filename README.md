@@ -12,4 +12,4 @@ timeline
     July 11-12 1973 : Senate hearings on clearing agencies and transfer agents
 ```
 
-The [DTC history and primary sources](history/dtc.md) document the 1973 transition. DTC's [1973 annual report](https://www.sechistorical.org/collection/papers/1970/1973_0101_DTCAR.pdf) traces the earlier milestones. The [Congressional Record notice](https://www.govinfo.gov/content/pkg/GPO-CRECB-1973-pt17/pdf/GPO-CRECB-1973-pt17-5-1.pdf) identifies the July 11–12 hearing dates. May 11 marks the documented transfer of operations, not necessarily DTC's earlier legal formation date.
+[Historical sources and details](history/dtc.md).
